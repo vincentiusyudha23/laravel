@@ -1,0 +1,76 @@
+{
+    "entries": [
+        {
+            "batchId": "00004",
+            "merchantId": "5323492001",
+            "method": "insert",
+            "product": {
+                "kind": "content#product",
+                "offerId": "product#04",
+                "title": "Advan 500",
+                "description": "Android Terbaik se Indonesia",
+                "link": "http://yudha.next-tjar.test",
+                "imageLink": "https://picsum.photos/id/1/200/300",
+                "contentLanguage": "id",
+                "targetCountry": "ID",
+                "feedLabel": "ID",
+                "channel": "online",
+                "availability": "in stock",
+                "condition": "new",
+                "googleProductCategory": "Electronics > Communications > Telephony > Mobile Phones",
+                "price": {
+                    "value": "1500000",
+                    "currency": "IDR"
+                }
+            }
+        },
+        {
+            "batchId": "00005",
+            "merchantId": "5323492001",
+            "method": "insert",
+            "product": {
+                "kind": "content#product",
+                "offerId": "product#05",
+                "title": "Advan 600",
+                "description": "Android Terbaik se Indonesia",
+                "link": "http://yudha.next-tjar.test",
+                "imageLink": "https://picsum.photos/id/2/200/300",
+                "contentLanguage": "id",
+                "targetCountry": "ID",
+                "feedLabel": "ID",
+                "channel": "online",
+                "availability": "in stock",
+                "condition": "new",
+                "googleProductCategory": "Electronics > Communications > Telephony > Mobile Phones",
+                "price": {
+                    "value": "1600000",
+                    "currency": "IDR"
+                }
+            }
+        },
+        {
+            "batchId": "00006",
+            "merchantId": "5323492001",
+            "method": "insert",
+            "product": {
+                "kind": "content#product",
+                "offerId": "product#06",
+                "title": "Advan 700",
+                "description": "Android Terbaik se Indonesia",
+                "link": "http://yudha.next-tjar.test",
+                "imageLink": "https://picsum.photos/id/3/200/300",
+                "contentLanguage": "id",
+                "targetCountry": "ID",
+                "feedLabel": "ID",
+                "channel": "online",
+                "availability": "in stock",
+                "condition": "new",
+                "googleProductCategory": "Electronics > Communications > Telephony > Mobile Phones",
+                "price": {
+                    "value": "1700000",
+                    "currency": "IDR"
+                }
+            }
+        }
+    ]
+}
